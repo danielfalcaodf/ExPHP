@@ -1,0 +1,17 @@
+body{background-image:url(https://juegosrev.com/wp-content/uploads/2017/06/Wallpapers-Of-Funny-Pictures-Gallery-73-Plus-PIC-WPW3010814.jpg);
+background-repeat:no-repeat;background-size: 100%}
+
+#dialogo{position: absolute; }
+
+.Maria{width: 1200px;
+height: 40px;
+color: green ;
+text-align: left;
+font-size: 40px;}
+
+.Jose{width: 1200px;
+height: 40px;
+color: red;
+text-align: right;
+font-size: 40px;
+}
